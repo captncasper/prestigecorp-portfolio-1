@@ -1,6 +1,6 @@
 # PrestigeCorp Portfolio
 
-This repository contains multiple applications and tools developed for PrestigeCorp.
+This repository contains multip le applications and tools developed for PrestigeCorp.
 
 ## Repository Structure
 
